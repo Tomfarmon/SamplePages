@@ -1,1 +1,2 @@
 こんにちは
+![Painting](./sample.jpg)
